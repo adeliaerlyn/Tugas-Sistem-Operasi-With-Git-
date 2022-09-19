@@ -103,3 +103,32 @@ _**Deskripsi Tugas**_ <br>
 
 <p align="justify">Layanan ini berfungsi untuk meberikan proteksi kepada pengguna dari serangan luar yang berasal dari luar kuasa pengguna. Seperti akses illegal, ransomware, virus, dan lai-lain. Account Manager pada windows berfungsi untuk mengatur siapa saja yang dapat masuk dan menggunakan computer dan membatasi apa saja yang dapat dilakukan oleh pengguna tersebut. Sedangkan windows security berfungsi untuk melindungi system operasi dari serangan ransomware, virus, serta thread-thread berbahaya lainnya.</p>
 
+<br>
+
+## **Sistem Call**
+
+<br>
+
+<p align="justify">Menurut artikel yang diunggah oleh : guptayp, Sytem Call digunakan untuk melakukan suatu proses yang dikehendaki user. Oleh karena itu harus ada suatu bentuk komunikasi antara user dan hardware. Komunikasi itu terjadi dalam bentuk system calls. SO melalui shell-nya akan menangkap perintah dari user yang kemudian akan dikomunikasikan melalui system calls. Disinilah peran SO sebagai jembatan komunikasi antara user dan hardware itu terjadi. System calls itu sendiri umumnya ditulis dalam bahasa C dan C++. Type system call :</p>
+
+- Manajemen Proses
+- Manajemen Berkas
+- Manajemen Kiranti
+- System Call Informasi/Pemeliharaan
+- Komunikasi
+
+<br>
+
+### _Manajemen Berkas (Pembuatan File pada Command Prompt)_
+
+<br>
+
+<p align="center"><img src="img/TUGAS3_F11.png" width="500px"></p>
+
+<br> 
+
+<p align="justify">Cara mengakses dan membuat folder baru menggunakan command prompt yaitu :</p>
+<b>User membuka Command Prompt, ketik mkdir (Nama Folder yang akan Dibuat)</b><i> Contohnya : mkdir FOLDER_SO</i>. <b>Enter, kemudian ketik 'dir'.</b>
+
+
+Maka folder sudah selesai dibuat.
