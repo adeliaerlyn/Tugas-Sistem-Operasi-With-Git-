@@ -101,4 +101,6 @@ Adelia Erlyn N.C.P. | 2110131320010 | Sistem Operasi | Dr. Harja Santanapurba, M
 
 <p align="justify">Salah satu keuntungan mikrokernel adalah ketika layanan baru akan ditambahkan ke <i>user space</i>, <i>kernel</i> tidak perlu dimodifikasi. Kalau pun harus, perubahan akan lebih sedikit. Hasil sistem operasinya lebih mudah untuk ditempatkan pada suatu desain perangkat keras ke desain lainnya. kernel-mikro juga mendukung keamanan reliabilitas lebih, karena kebanyakan layanan berjalan sebagai pengguna proses. Jika layanan gagal, sistem operasi lainnya tetap terjaga. Beberapa sistem operasi yang menggunakan metode ini adalah TRU64 UNIX, MacOSX, dan QNX.</p>
 
+<br>
+
 
